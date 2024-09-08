@@ -1,0 +1,30 @@
+\name{print.netlogit}
+\alias{print.netlogit}
+%- Also NEED an `\alias' for EACH other topic documented here.
+\title{ Printing for netlogit Objects }
+\description{
+  Prints a quick summary of objects produced by \code{\link{netlogit}}.
+}
+\usage{
+\method{print}{netlogit}(x, ...)
+}
+%- maybe also `usage' for other objects documented here.
+\arguments{
+  \item{x}{ An object of class \code{netlogit} }
+  \item{\dots}{ Further arguments passed to or from other methods }
+}
+%\details{
+%}
+%\value{
+%}
+%\references{  }
+\author{ Carter T. Butts \email{buttsc@uci.edu} }
+%\note{  }
+
+% ~Make other sections like WARNING with \section{WARNING }{....} ~
+
+\seealso{ \code{\link{netlogit}} }
+
+%\examples{
+%}
+\keyword{ print }%-- one or more ...
